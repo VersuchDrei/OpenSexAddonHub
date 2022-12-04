@@ -1,0 +1,9 @@
+b -Tn _Ap-BenchAddonHub_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_addon\ChaIr\Ap\ChairAddonHub\_Ap-ChairAddonHub_0.hkx
+b -Tn _Ap-BenchAddonHub_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_addon\ChaIr\Ap\ChairAddonHub\_Ap-ChairAddonHub_1.hkx
+b -Tn _Ap-BenchBillyyHub_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_addon\ChaIr\Ap\ChairAddonHub\_Ap-ChairAddonHub_0.hkx
+b -Tn _Ap-BenchBillyyHub_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_addon\ChaIr\Ap\ChairAddonHub\_Ap-ChairAddonHub_1.hkx
+
+b -Tn _Ap-ChairAddonHub_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_addon\ChaIr\Ap\ChairAddonHub\_Ap-ChairAddonHub_0.hkx
+b -Tn _Ap-ChairAddonHub_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_addon\ChaIr\Ap\ChairAddonHub\_Ap-ChairAddonHub_1.hkx
+b -Tn _Ap-ChairBillyyHub_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_addon\ChaIr\Ap\ChairAddonHub\_Ap-ChairAddonHub_0.hkx
+b -Tn _Ap-ChairBillyyHub_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_addon\ChaIr\Ap\ChairAddonHub\_Ap-ChairAddonHub_1.hkx

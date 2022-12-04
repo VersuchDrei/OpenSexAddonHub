@@ -1,4 +1,0 @@
-b -Tn _Ap-BenchAddonHub_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_addon\BenCh\Ap\BenchAddonHub\_Ap-BenchAddonHub_0.hkx
-b -Tn _Ap-BenchAddonHub_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_addon\BenCh\Ap\BenchAddonHub\_Ap-BenchAddonHub_1.hkx
-b -Tn _Ap-BenchBillyyHub_0 ..\..\..\..\0SA\mod\0Sex\anim\Billyy_furniture\BenCh\Ap\BenchBillyyHub\_Ap-BenchBillyyHub_0.hkx
-b -Tn _Ap-BenchBillyyHub_1 ..\..\..\..\0SA\mod\0Sex\anim\Billyy_furniture\BenCh\Ap\BenchBillyyHub\_Ap-BenchBillyyHub_1.hkx
