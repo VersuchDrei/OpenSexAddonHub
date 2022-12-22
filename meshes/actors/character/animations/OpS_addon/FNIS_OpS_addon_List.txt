@@ -7,3 +7,8 @@ b -Tn _Ap-ChairAddonHub_0 ChairAddonHub\ChairAddonHub_0.hkx
 b -Tn _Ap-ChairAddonHub_1 ChairAddonHub\ChairAddonHub_1.hkx
 b -Tn _Ap-ChairBillyyHub_0 ChairAddonHub\ChairAddonHub_0.hkx
 b -Tn _Ap-ChairBillyyHub_1 ChairAddonHub\ChairAddonHub_1.hkx
+
+b -Tn _Ap-TableAddonHub_0 TableAddonHub\TableAddonHub_0.hkx
+b -Tn _Ap-TableAddonHub_1 TableAddonHub\TableAddonHub_1.hkx
+b -Tn _Ap-TableBillyyHub_0 TableAddonHub\TableAddonHub_0.hkx
+b -Tn _Ap-TableBillyyHub_1 TableAddonHub\TableAddonHub_1.hkx
