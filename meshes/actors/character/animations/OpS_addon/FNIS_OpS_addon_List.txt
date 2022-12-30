@@ -12,3 +12,8 @@ b -Tn _Ap-TableAddonHub_0 TableAddonHub\TableAddonHub_0.hkx
 b -Tn _Ap-TableAddonHub_1 TableAddonHub\TableAddonHub_1.hkx
 b -Tn _Ap-TableBillyyHub_0 TableAddonHub\TableAddonHub_0.hkx
 b -Tn _Ap-TableBillyyHub_1 TableAddonHub\TableAddonHub_1.hkx
+
+b -Tn _Ap-WallAddonHub_0 WallAddonHub\WallAddonHub_0.hkx
+b -Tn _Ap-WallAddonHub_1 WallAddonHub\WallAddonHub_1.hkx
+b -Tn _Ap-WallBillyyHub_0 WallAddonHub\WallAddonHub_0.hkx
+b -Tn _Ap-WallBillyyHub_1 WallAddonHub\WallAddonHub_1.hkx
