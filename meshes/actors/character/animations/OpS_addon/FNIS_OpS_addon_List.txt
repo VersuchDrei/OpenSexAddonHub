@@ -1,3 +1,17 @@
+b -Tn _Ap-AddonHub_0 AddonHub\AddonHub_0.hkx
+b -Tn _Ap-AddonHub_1 AddonHub\AddonHub_1.hkx
+b -Tn _Ap-MoonHub_0 AddonHub\AddonHub_0.hkx
+b -Tn _Ap-MoonHub_1 AddonHub\AddonHub_1.hkx
+b -Tn _Ap-CompatibilityPatchHub_0 AddonHub\AddonHub_0.hkx
+b -Tn _Ap-CompatibilityPatchHub_1 AddonHub\AddonHub_1.hkx
+
+b -Tn _Ho-GroundAddonHub3P_0 GroundAddonHub3P\GroundAddonHub3P_0.hkx
+b -Tn _Ho-GroundAddonHub3P_1 GroundAddonHub3P\GroundAddonHub3P_1.hkx
+b -Tn _Ho-GroundAddonHub3P_2 GroundAddonHub3P\GroundAddonHub3P_2.hkx
+b -Tn _Ho-GroundCompatibilityPatchHub3P_0 GroundAddonHub3P\GroundAddonHub3P_0.hkx
+b -Tn _Ho-GroundCompatibilityPatchHub3P_1 GroundAddonHub3P\GroundAddonHub3P_1.hkx
+b -Tn _Ho-GroundCompatibilityPatchHub3P_2 GroundAddonHub3P\GroundAddonHub3P_2.hkx
+
 b -Tn _Ap-BenchAddonHub_0 ChairAddonHub\ChairAddonHub_0.hkx
 b -Tn _Ap-BenchAddonHub_1 ChairAddonHub\ChairAddonHub_1.hkx
 b -Tn _Ap-BenchBillyyHub_0 ChairAddonHub\ChairAddonHub_0.hkx
